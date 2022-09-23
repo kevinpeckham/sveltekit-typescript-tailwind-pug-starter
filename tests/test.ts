@@ -2,7 +2,6 @@ import { expect, test } from '@playwright/test';
 
 test('index page has expected h1', async ({ page }) => {
 	await page.goto('/');
-	expect(await page.textContent('h1')).toBe(
-		'Welcome to The SvelteKit Typescript Tailwind Pug Starter.'
-	);
+	const h1 = 'Welcome to the SvelteKit Typescript Tailwind Pug Starter.';
+	await expect(page.locator('h1')).toHaveText(h1);
 });
