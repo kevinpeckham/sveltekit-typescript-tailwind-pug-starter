@@ -1,6 +1,6 @@
 # Sveltekit Typescript Tailwind Pug Starter
 
-A starter for launching a Sveltekit / Pug project with Typescript and Tailwind and some other bells and whistles.
+A starter for launching a Sveltekit / Pug project with Typescript and TailwindCSS and some other bells and whistles.
 
 ## About
 
@@ -52,7 +52,7 @@ The following shortcuts and corresponding folders come pre-configured:
 - $functions: path.resolve('./src/lib/functions'),
 - $lib: path.resolve('./src/lib'),
 - $molecules: path.resolve('./src/lib/components/molecules'),
-- $organs: path.resolve('./src/lib/components/organisms'),
+- $organisms: path.resolve('./src/lib/components/organisms'),
 - $settings: path.resolve('./src/lib/settings'),
 - $stores: path.resolve('./src/lib/stores'),
 - $types: path.resolve('./src/lib/types'),
@@ -68,11 +68,3 @@ If you are using VSCode, we recommend these extensions:
 - [Tailwind CSS Intellisense](URL 'https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss')
 - [Playwright Test for VSCode](URL 'https://marketplace.visualstudio.com/items?itemName=ms-playwright.playwright')
 
-## Other Extension Recommendations
-
-These are optional, but we tend to use them internally for better collaboration:
-
-- [Code Spell Checker](URL 'https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments')
-- [Better Comments](URL 'https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments')
-- [ToDo Tree](URL 'https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree')
-- [markdownlint](URL 'https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint')
