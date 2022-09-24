@@ -41,7 +41,7 @@ You can preview the production build with `npm run preview`.
 
 ## Pug
 
-This starter uses the [svelte-preprocess](URL 'https://github.com/sveltejs/svelte-preprocess'). Special syntax is required to write Pug inside Svelte templates. You can learn more [here](URL 'https://github.com/sveltejs/svelte-preprocess/blob/HEAD/docs/preprocessing.md#preprocessors').
+This starter uses the [svelte-preprocess](https://github.com/sveltejs/svelte-preprocess). Special syntax is required to write Pug inside Svelte templates. You can learn more [here](https://github.com/sveltejs/svelte-preprocess/blob/HEAD/docs/preprocessing.md#preprocessors).
 
 ## Shortcuts
 
@@ -62,9 +62,8 @@ The following shortcuts and corresponding folders come pre-configured:
 
 If you are using VSCode, we recommend these extensions:
 
-- [Svelte for VS Code](URL 'https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode')
-- [ESLint](URL 'https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint')
-- [Prettier ESLint](URL 'https://marketplace.visualstudio.com/items?itemName=rvest.vs-code-prettier-eslint')
-- [Tailwind CSS Intellisense](URL 'https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss')
-- [Playwright Test for VSCode](URL 'https://marketplace.visualstudio.com/items?itemName=ms-playwright.playwright')
-
+- [Svelte for VS Code](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode)
+- [ESLint]('https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+- [Prettier ESLint](https://marketplace.visualstudio.com/items?itemName=rvest.vs-code-prettier-eslint)
+- [Tailwind CSS Intellisense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
+- [Playwright Test for VSCode](https://marketplace.visualstudio.com/items?itemName=ms-playwright.playwright)
