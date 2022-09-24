@@ -47,16 +47,16 @@ This starter uses the [svelte-preprocess](URL 'https://github.com/sveltejs/svelt
 
 The following shortcuts and corresponding folders come pre-configured:
 
-- $atoms: path.resolve('./src/lib/components/atoms'),
-- $components: path.resolve('./src/lib/components'),
-- $functions: path.resolve('./src/lib/functions'),
-- $lib: path.resolve('./src/lib'),
-- $molecules: path.resolve('./src/lib/components/molecules'),
-- $organisms: path.resolve('./src/lib/components/organisms'),
-- $settings: path.resolve('./src/lib/settings'),
-- $stores: path.resolve('./src/lib/stores'),
-- $types: path.resolve('./src/lib/types'),
-- $utils: path.resolve('./src/lib/utils')
+- $atoms: './src/lib/components/atoms'
+- $components: './src/lib/components'
+- $functions: path.resolve('./src/lib/functions'
+- $lib: './src/lib'
+- $molecules: './src/lib/components/molecules'
+- $organisms: './src/lib/components/organisms'
+- $settings: './src/lib/settings'
+- $stores: './src/lib/stores'
+- $types: './src/lib/types'
+- $utils: './src/lib/utils'
 
 ## Strongly Recommended Editor & Extensions
 
