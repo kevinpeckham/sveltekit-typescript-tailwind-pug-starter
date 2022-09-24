@@ -1,9 +1,9 @@
-# Sveltekit Typescript Tailwind Pug Starter
+# Sveltekit Typescript Tailwind Pug Starter Template
 
 A starter template for launching a Sveltekit / Pug project with Typescript and TailwindCSS.
 &nbsp;
 
-## 1. About this Tempale
+## 1. About this Template
 
 This starter was developed for the [Lightning Jar ](https://lightningjar.com) team. It's designed to get one up and running quickly on a new project using:
 
@@ -24,7 +24,7 @@ This starter was generated using 'npm create svelte@latest" and sticks as closel
 
 ## 2. Getting Started
 
-### Devloping
+### Developing
 
 Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
 
