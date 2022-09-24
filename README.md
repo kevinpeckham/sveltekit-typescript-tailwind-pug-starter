@@ -4,7 +4,7 @@ A starter for launching a Sveltekit / Pug project with Typescript and TailwindCS
 
 ## About
 
-This starter was developed for the [Lightning Jar ](URL 'https://lightningjar.com') team. It's designed to get one up and running quickly on a new project using:
+This starter was developed for the [Lightning Jar ](https://lightningjar.com) team. It's designed to get one up and running quickly on a new project using:
 
 - Sveltekit
 - Svelte
@@ -63,7 +63,7 @@ The following shortcuts and corresponding folders come pre-configured:
 If you are using VSCode, we recommend these extensions:
 
 - [Svelte for VS Code](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode)
-- [ESLint]('https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 - [Prettier ESLint](https://marketplace.visualstudio.com/items?itemName=rvest.vs-code-prettier-eslint)
 - [Tailwind CSS Intellisense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
 - [Playwright Test for VSCode](https://marketplace.visualstudio.com/items?itemName=ms-playwright.playwright)
