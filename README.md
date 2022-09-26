@@ -10,7 +10,7 @@ This starter was developed for the [Lightning Jar ](https://lightningjar.com) te
 - Sveltekit
 - Svelte
 - Typescript
-- Pug.js
+- Pug
 - TailwindCSS
 - Prettier
 - ESLint
@@ -70,7 +70,7 @@ If you get stuck working with SvelteKit yuo can reach out for help in the [Svelt
 
 I love Pug, and the first thing I figured out when I started working with Svelte, was how to use Pug inside Svelte files. Thankfully other devs had already solved the technical challenges for me.
 
-This starter uses the [svelte-preprocess](https://github.com/sveltejs/svelte-preprocess) package.It is a Svelte preprocessor with sensible defaults and support for: PostCSS, SCSS, Less, Stylus, CoffeeScript, TypeScript, Pug and much more.
+This starter uses the [svelte-preprocess](https://github.com/sveltejs/svelte-preprocess) package. It is a Svelte preprocessor with sensible defaults and support for: PostCSS, SCSS, Less, Stylus, CoffeeScript, TypeScript, Pug and much more.
 
 **Note: Special syntax is required to write Pug inside Svelte templates.** Some basics are included below. You can learn more [here](https://github.com/sveltejs/svelte-preprocess/blob/HEAD/docs/preprocessing.md#preprocessors).\*\*
 
