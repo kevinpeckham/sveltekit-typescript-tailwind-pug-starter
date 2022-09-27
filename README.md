@@ -10,11 +10,11 @@ This starter was developed for the [Lightning Jar ](https://lightningjar.com) te
 ### Core Technologies
 
 ## Application & Component Frameworks
-- [Sveltekit](https://kit.svelte.dev/)
-- [Svelte](https://svelte.dev/)
+[Sveltekit](https://kit.svelte.dev/)
+[Svelte](https://svelte.dev/)
 
 ## Development Environment
-- [Vite](https://vitejs.dev/)
+[Vite](https://vitejs.dev/)
 
 ## HTML Template Engine
 Pug](https://pugjs.org/api/getting-started.html)
@@ -28,18 +28,18 @@ Pug](https://pugjs.org/api/getting-started.html)
 [TailwindCSS](https://pugjs.org/api/getting-started.html)
 
 ## Linting & Formatting
-- [Prettier](https://prettier.io/)
-- [ESLint](https://eslint.org/)
+[Prettier](https://prettier.io/)
+[ESLint](https://eslint.org/)
 
 ## Testing
-- [Playwright](https://playwright.dev/)
+[Playwright](https://playwright.dev/)
 
 ### Plugins, Adapters & Misc
 [eslint-config-prettier](https://github.com/prettier/eslint-config-prettier)
 [eslint-plugin-svelte3](https://github.com/sveltejs/eslint-plugin-svelte3)
 [prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss)
-[@sveltejs/adapter-auto](https://github.com/sveltejs/kit/tree/master/packages/adapter-auto),
-[svelte-check"](https://github.com/sveltejs/language-tools/tree/master/packages/svelte-check)
+[@sveltejs/adapter-auto](https://github.com/sveltejs/kit/tree/master/packages/adapter-auto)
+[svelte-check](https://github.com/sveltejs/language-tools/tree/master/packages/svelte-check)
 [svelte-preprocess](https://github.com/sveltejs/eslint-plugin-svelte3)
 [@tailwindcss/typography](https://github.com/tailwindlabs/tailwindcss-typography)
 [@tailwindcss/forms(https://github.com/tailwindlabs/tailwindcss-forms)
