@@ -9,47 +9,31 @@ This starter was developed for the [Lightning Jar ](https://lightningjar.com) te
 
 ### Core Technologies
 
-## Application & Component Frameworks
-[Sveltekit](https://kit.svelte.dev/)
-[Svelte](https://svelte.dev/)
-
-## Development Environment
-[Vite](https://vitejs.dev/)
-
-## HTML Template Engine
-[Pug](https://pugjs.org/api/getting-started.html)
-
-## JS Preprocessor
-[Typescript](https://www.typescriptlang.org/)
-
-## CSS Framework & Processing
-[Autoprefixer](https://github.com/postcss/autoprefixer)
-[PostCSS](https://postcss.org/)
-[TailwindCSS](https://pugjs.org/api/getting-started.html)
-
-## Linting & Formatting
-[Prettier](https://prettier.io/)
-[ESLint](https://eslint.org/)
-
-## Testing
-[Playwright](https://playwright.dev/)
+[Sveltekit](https://kit.svelte.dev/) - Application Framework<br />
+[Svelte](https://svelte.dev/) - Component Framework<br />
+[Vite](https://vitejs.dev/) - Front-end Build Tool<br />
+[Pug](https://pugjs.org/api/getting-started.html) - HTML Template Engine <br />
+[Typescript](https://www.typescriptlang.org/) - JS Preprocessor<br />
+[TailwindCSS](https://pugjs.org/api/getting-started.html) - CSS Framework<br />
+[Autoprefixer](https://github.com/postcss/autoprefixer) - CSS Vendor Prefixing<br />
+[PostCSS](https://postcss.org/) - CSS Transformations<br />
+[Prettier](https://prettier.io/) - Formatting<br />
+[ESLint](https://eslint.org/) - Linting<br />
+[Playwright](https://playwright.dev/) - Testing<br />
 
 ### Plugins, Adapters & Misc
 [eslint-config-prettier](https://github.com/prettier/eslint-config-prettier)<br/>
-[eslint-plugin-svelte3](https://github.com/sveltejs/eslint-plugin-svelte3)
-[prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss)
-[@sveltejs/adapter-auto](https://github.com/sveltejs/kit/tree/master/packages/adapter-auto)
-[svelte-check](https://github.com/sveltejs/language-tools/tree/master/packages/svelte-check)
-[svelte-preprocess](https://github.com/sveltejs/eslint-plugin-svelte3)
-[tailwindcss/typography](https://github.com/tailwindlabs/tailwindcss-typography)
-[tailwindcss/forms](https://github.com/tailwindlabs/tailwindcss-forms)
-[tslib](https://github.com/Microsoft/tslib)
-[typescript-eslint/eslint-plugin](https://github.com/typescript-eslint/typescript-eslint/tree/main/packages/eslint-plugin)
-[typescript-eslint/parser](https://github.com/typescript-eslint/typescript-eslint/tree/main/packages/parser)
+[eslint-plugin-svelte3](https://github.com/sveltejs/eslint-plugin-svelte3)<br/>
+[prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss)<br/>
+[@sveltejs/adapter-auto](https://github.com/sveltejs/kit/tree/master/packages/adapter-auto)<br/>
+[svelte-check](https://github.com/sveltejs/language-tools/tree/master/packages/svelte-check)<br/>
+[svelte-preprocess](https://github.com/sveltejs/eslint-plugin-svelte3)<br/>
+[tailwindcss/typography](https://github.com/tailwindlabs/tailwindcss-typography)<br/>
+[tailwindcss/forms](https://github.com/tailwindlabs/tailwindcss-forms)<br/>
+[tslib](https://github.com/Microsoft/tslib)<br/>
+[typescript-eslint/eslint-plugin](https://github.com/typescript-eslint/typescript-eslint/tree/main/packages/eslint-plugin)<br/>
+[typescript-eslint/parser](https://github.com/typescript-eslint/typescript-eslint/tree/main/packages/parser)<br/>
 
-
-&nbsp;
-This core of this starter was generated using 'npm create svelte@latest" and sticks as closely as possible to the default configuration and settings created using that set-up.
 
 &nbsp;
 
