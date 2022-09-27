@@ -17,7 +17,7 @@ This starter was developed for the [Lightning Jar ](https://lightningjar.com) te
 [Vite](https://vitejs.dev/)
 
 ## HTML Template Engine
-Pug](https://pugjs.org/api/getting-started.html)
+[Pug](https://pugjs.org/api/getting-started.html)
 
 ## JS Preprocessor
 [Typescript](https://www.typescriptlang.org/)
@@ -35,17 +35,17 @@ Pug](https://pugjs.org/api/getting-started.html)
 [Playwright](https://playwright.dev/)
 
 ### Plugins, Adapters & Misc
-[eslint-config-prettier](https://github.com/prettier/eslint-config-prettier)
+[eslint-config-prettier](https://github.com/prettier/eslint-config-prettier)<br/>
 [eslint-plugin-svelte3](https://github.com/sveltejs/eslint-plugin-svelte3)
 [prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss)
 [@sveltejs/adapter-auto](https://github.com/sveltejs/kit/tree/master/packages/adapter-auto)
 [svelte-check](https://github.com/sveltejs/language-tools/tree/master/packages/svelte-check)
 [svelte-preprocess](https://github.com/sveltejs/eslint-plugin-svelte3)
-[@tailwindcss/typography](https://github.com/tailwindlabs/tailwindcss-typography)
-[@tailwindcss/forms(https://github.com/tailwindlabs/tailwindcss-forms)
+[tailwindcss/typography](https://github.com/tailwindlabs/tailwindcss-typography)
+[tailwindcss/forms](https://github.com/tailwindlabs/tailwindcss-forms)
 [tslib](https://github.com/Microsoft/tslib)
-[@typescript-eslint/eslint-plugin](https://github.com/typescript-eslint/typescript-eslint/tree/main/packages/eslint-plugin),
-[@typescript-eslint/parser](https://github.com/typescript-eslint/typescript-eslint/tree/main/packages/parser)
+[typescript-eslint/eslint-plugin](https://github.com/typescript-eslint/typescript-eslint/tree/main/packages/eslint-plugin)
+[typescript-eslint/parser](https://github.com/typescript-eslint/typescript-eslint/tree/main/packages/parser)
 
 
 &nbsp;
