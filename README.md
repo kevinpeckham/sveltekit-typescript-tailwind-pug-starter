@@ -5,20 +5,51 @@ A starter template for launching a Sveltekit / Pug project with Typescript and T
 
 ## 1. About this Template
 
-This starter was developed for the [Lightning Jar ](https://lightningjar.com) team. It's designed to get one up and running quickly on a new project using:
+This starter was developed for the [Lightning Jar ](https://lightningjar.com) team. It's designed to get one up and running quickly on a new project using the core technologies Svelte, Sveltekit, Typescript, TailwindCSS, Pug + a few other bells and whistles ( see the full breakdown below).
 
-- Sveltekit
-- Svelte
-- Typescript
-- Pug
-- TailwindCSS
-- Prettier
-- ESLint
-- Vite
-- Playwright
+### Core Technologies
+
+## Application & Component Frameworks
+- [Sveltekit](https://kit.svelte.dev/)
+- [Svelte](https://svelte.dev/)
+
+## Development Environment
+- [Vite](https://vitejs.dev/)
+
+## HTML Template Engine
+Pug](https://pugjs.org/api/getting-started.html)
+
+## JS Preprocessor
+[Typescript](https://www.typescriptlang.org/)
+
+## CSS Framework & Processing
+[Autoprefixer](https://github.com/postcss/autoprefixer)
+[PostCSS](https://postcss.org/)
+[TailwindCSS](https://pugjs.org/api/getting-started.html)
+
+## Linting & Formatting
+- [Prettier](https://prettier.io/)
+- [ESLint](https://eslint.org/)
+
+## Testing
+- [Playwright](https://playwright.dev/)
+
+### Plugins, Adapters & Misc
+[eslint-config-prettier](https://github.com/prettier/eslint-config-prettier)
+[eslint-plugin-svelte3](https://github.com/sveltejs/eslint-plugin-svelte3)
+[prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss)
+[@sveltejs/adapter-auto](https://github.com/sveltejs/kit/tree/master/packages/adapter-auto),
+[svelte-check"](https://github.com/sveltejs/language-tools/tree/master/packages/svelte-check)
+[svelte-preprocess](https://github.com/sveltejs/eslint-plugin-svelte3)
+[@tailwindcss/typography](https://github.com/tailwindlabs/tailwindcss-typography)
+[@tailwindcss/forms(https://github.com/tailwindlabs/tailwindcss-forms)
+[tslib](https://github.com/Microsoft/tslib)
+[@typescript-eslint/eslint-plugin](https://github.com/typescript-eslint/typescript-eslint/tree/main/packages/eslint-plugin),
+[@typescript-eslint/parser](https://github.com/typescript-eslint/typescript-eslint/tree/main/packages/parser)
+
 
 &nbsp;
-This starter was generated using 'npm create svelte@latest" and sticks as closely as possible to the default configuration and settings created using that set-up.
+This core of this starter was generated using 'npm create svelte@latest" and sticks as closely as possible to the default configuration and settings created using that set-up.
 
 &nbsp;
 
