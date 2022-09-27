@@ -14,7 +14,7 @@ This starter was developed for the [Lightning Jar ](https://lightningjar.com) te
 [Vite](https://vitejs.dev/) - Front-end Build Tool<br />
 [Pug](https://pugjs.org/api/getting-started.html) - HTML Template Engine <br />
 [Typescript](https://www.typescriptlang.org/) - JS Preprocessor<br />
-[TailwindCSS](https://pugjs.org/api/getting-started.html) - CSS Framework<br />
+[TailwindCSS](https://tailwindcss.com/) - CSS Framework<br />
 [Autoprefixer](https://github.com/postcss/autoprefixer) - CSS Vendor Prefixing<br />
 [PostCSS](https://postcss.org/) - CSS Transformations<br />
 [Prettier](https://prettier.io/) - Formatting<br />
