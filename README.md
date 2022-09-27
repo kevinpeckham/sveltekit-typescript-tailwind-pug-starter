@@ -25,7 +25,7 @@ This starter was developed for the [Lightning Jar ](https://lightningjar.com) te
 [eslint-config-prettier](https://github.com/prettier/eslint-config-prettier)<br/>
 [eslint-plugin-svelte3](https://github.com/sveltejs/eslint-plugin-svelte3)<br/>
 [prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss)<br/>
-[@sveltejs/adapter-auto](https://github.com/sveltejs/kit/tree/master/packages/adapter-auto)<br/>
+[sveltejs/adapter-auto](https://github.com/sveltejs/kit/tree/master/packages/adapter-auto)<br/>
 [svelte-check](https://github.com/sveltejs/language-tools/tree/master/packages/svelte-check)<br/>
 [svelte-preprocess](https://github.com/sveltejs/eslint-plugin-svelte3)<br/>
 [tailwindcss/typography](https://github.com/tailwindlabs/tailwindcss-typography)<br/>
