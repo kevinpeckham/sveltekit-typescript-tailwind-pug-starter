@@ -35,7 +35,7 @@ pnpm-lock.yaml
 # /.svelte-kit/types
 
 # Editor files
-.vscode
+# .vscode
 .code-workspace
 
 # hosting providers
