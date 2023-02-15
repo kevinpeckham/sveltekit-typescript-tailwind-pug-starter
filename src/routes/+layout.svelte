@@ -1,5 +1,7 @@
-<script>
-	import '../app.css';
+<script lang="ts">
+	import "../app.css";
 </script>
 
-<slot />
+<template lang="pug">
+	slot
+</template>

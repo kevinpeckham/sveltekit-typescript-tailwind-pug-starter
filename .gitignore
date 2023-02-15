@@ -30,8 +30,13 @@ pnpm-lock.yaml
 
 # Sveltekit files
 .svelte-kit
-
+# generated/
+# output/
+# /.svelte-kit/types
 
 # Editor files
 .vscode
 .code-workspace
+
+# hosting providers
+.vercel
