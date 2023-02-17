@@ -14,7 +14,7 @@ An <a> styled to look like a button.
 	.mb-16.w-full(class="sm:mb-24")
 		a.text-light.inline-block.rounded.bg-transparent.px-4.py-2.outline.outline-1.outline-white.transition-all(
 			class="hover:bg-accent hover:text-primary hover:outline-transparent",
-			href="{ targetUrl }",
-			title="{ title }")
+			href!="{ targetUrl }",
+			title!="{ title }")
 			slot
 </template>
