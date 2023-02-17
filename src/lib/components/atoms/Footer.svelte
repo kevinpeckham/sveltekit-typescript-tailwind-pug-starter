@@ -15,7 +15,7 @@ Web footer component
 	footer.bg-primary.px-4.pb-24.text-xs.text-white
 		.text-center
 			.mb-1.inline-block
-				// author
+				//- author
 				span.opacity-70 Created by&nbsp;
 				a.opacity-80(
 					class="hover:text-accent hover:underline hover:opacity-100",
@@ -23,7 +23,7 @@ Web footer component
 					rel="me")
 					slot(name="author")
 
-				// org
+				//- org
 				span.opacity-70 &nbsp;@&nbsp;
 				a.inline-block.underline-offset-4.opacity-80.transition-all(
 					class="hover:text-accent hover:underline hover:opacity-100",
