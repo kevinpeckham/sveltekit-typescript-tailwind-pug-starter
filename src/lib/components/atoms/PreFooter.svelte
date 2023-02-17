@@ -16,7 +16,7 @@ Prefooter contains a single linked call to action.
 		.group.mb-0.rounded-md.px-4.py-4.text-center.text-sm(class="bg-white/5")
 			a.inline-block.italic.text-white.opacity-90.transition-all(
 				class="hover:opacity-100 group-hover:text-accent",
-				href="{ targetUrl }",
-				title="{ title }")
+				href!="{ targetUrl }",
+				title!="{ title }")
 				slot
 </template>
