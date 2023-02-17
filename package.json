@@ -1,6 +1,6 @@
 {
 	"author": "Kevin Peckham",
-	"name": "lj-sveltekit-ts-tailwind-pug-starter",
+	"name": "sveltekit-ts-tailwind-pug-starter",
 	"version": "1.0.2",
 	"repository": {
 		"type": "git",
