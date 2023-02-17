@@ -95,7 +95,7 @@ You can preview the production build with `npm run preview`.
 
 Sveltekit is a new framework for building web applications. It's built on top of Svelte, which is a component framework for building user interfaces. Sveltekit is a great tool for building modern web applications.
 
-If you get stuck working with SvelteKit yuo can reach out for help in the [SvelteKit Discord chatroom](https://svelte.dev/chat).
+If you get stuck working with SvelteKit you can reach out for help in the [SvelteKit Discord chatroom](https://svelte.dev/chat).
 
 &nbsp;
 
