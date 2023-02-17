@@ -12,7 +12,6 @@ const prettierPluginPug = require("@prettier/plugin-pug");
 module.exports = {
 	plugins: [prettierPluginPug, prettierPluginSvelte],
 	arrowParens: "always",
-	bracketNewLine: true,
 	bracketSpacing: true,
 	htmlWhitespaceSensitivity: "strict",
 	printWidth: 80,
