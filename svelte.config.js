@@ -11,15 +11,13 @@ const config = {
 	kit: {
 		adapter: adapter(),
 		alias: {
-			$atoms: path.resolve("./src/lib/components/atoms"),
-			$components: path.resolve("./src/lib/components"),
-			$functions: path.resolve("./src/lib/functions"),
-			$molecules: path.resolve("./src/lib/components/molecules"),
-			$organisms: path.resolve("./src/lib/components/organisms"),
-			$settings: path.resolve("./src/lib/settings"),
-			$stores: path.resolve("./src/lib/stores"),
-			$types: path.resolve("./src/lib/types"),
-			$utils: path.resolve("./src/lib/utils"),
+			$atoms: "./src/lib/components/atoms",
+			$components: "./src/lib/components",
+			$molecules: "./src/lib/components/molecules",
+			$organisms: "./src/lib/components/organisms",
+			$stores: "./src/lib/stores",
+			$types: "./src/lib/types",
+			$utils: "./src/lib/utils",
 		},
 	},
 };
