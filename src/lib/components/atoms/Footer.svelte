@@ -20,13 +20,15 @@ Web footer component
 				a.opacity-80(
 					class="hover:text-accent hover:underline hover:opacity-100",
 					href!="{ authorLink }",
-					rel="me")
+					rel="me"
+				)
 					slot(name="author")
 
 				//- org
 				span.opacity-70 &nbsp;@&nbsp;
 				a.inline-block.underline-offset-4.opacity-80.transition-all(
 					class="hover:text-accent hover:underline hover:opacity-100",
-					href!="{ orgLink }")
+					href!="{ orgLink }"
+				)
 					slot(name="org")
 </template>
