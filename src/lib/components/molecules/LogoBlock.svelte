@@ -8,7 +8,6 @@ A figure with svg image and caption.
 -->
 <script lang="ts">
 	// components
-	// eslint-disable-next-line @typescript-eslint/no-unused-vars
 	import PlusBlock from "$atoms/PlusBlock.svelte";
 
 	// props
@@ -25,8 +24,8 @@ A figure with svg image and caption.
 <template lang="pug">
 	a.group.rounded-lg.transition-all(
 		class="hover:bg-white/5",
-		{href},
-		{title}
+		href!="{ href }",
+		title!="{ title }"
 	)
 		figure.relative.text-center.text-sm
 			img.block.h-auto(
