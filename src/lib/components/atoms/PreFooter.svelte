@@ -1,6 +1,6 @@
 <!--
 @component
-Prefooter contains a single linked call to action.
+Pre-footer contains a single linked call to action.
 * prop targetUrl: string -- link target url
 * prop title: string -- link title
 * slot (default) -- link text
