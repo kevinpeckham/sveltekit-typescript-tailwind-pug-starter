@@ -20,5 +20,3 @@
 	// enable linting
 	"tailwindCSS.validate": true
 }
-
-}
