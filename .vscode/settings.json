@@ -4,5 +4,21 @@
 	"editor.formatOnType": false, // required
 	"editor.formatOnSave": true, // optional
 	"editor.formatOnSaveMode": "file", // required to format on save
-	"files.autoSave": "onFocusChange" // optional but recommended
+	"files.autoSave": "onFocusChange", // optional but recommended
+	"files.associations": {
+		// always open .css files in Tailwind CSS mode
+		"*.css": "tailwindcss"
+	},
+	// help vscode understand tailwind classes
+	"editor.quickSuggestions": {
+		"strings": true
+	},
+	// enable additional language support for tailwind
+	"tailwindCSS.includeLanguages": { "plaintext": "html" },
+	// enable emmet completions for tailwind
+	"tailwindCSS.emmetCompletions": true,
+	// enable linting
+	"tailwindCSS.validate": true
+}
+
 }
