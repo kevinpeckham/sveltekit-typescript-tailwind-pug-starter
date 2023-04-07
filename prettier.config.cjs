@@ -10,7 +10,20 @@ const prettierPluginPug = require("@prettier/plugin-pug");
  * @type {import('prettier').Options}
  */
 module.exports = {
-	plugins: [prettierPluginSvelte, prettierPluginPug],
+	plugins: [prettierPluginPug, prettierPluginSvelte],
+
+	arrowParens: "always",
+	bracketSpacing: true,
+	htmlWhitespaceSensitivity: "strict",
+	pluginSearchDirs: false,
+	printWidth: 80,
+	quoteProps: "consistent",
+	semi: true,
+	singleQuote: false,
+	singleAttributePerLine: true,
+	tabWidth: 2,
+	trailingComma: "all",
+	useTabs: true,
 
 	// prettier pug plugin options
 	// https://prettier.github.io/plugin-pug/guide/pug-specific-options.html
@@ -22,7 +35,7 @@ module.exports = {
 	pugExplicitDiv: false,
 	pugFramework: "svelte",
 	pugIdNotation: "as-is",
-	pugSingleFileComponentIndentation: true,
+	pugSingleFileComponentIndentation: false,
 	pugSortAttributes: "asc",
 	pugSortAttributesBeginning: ["(class)"],
 	pugTabWidth: 2,
@@ -32,20 +45,5 @@ module.exports = {
 	// prettier svelte plugin options
 	// https://github.com/sveltejs/prettier-plugin-svelte
 	svelteAllowShorthand: true,
-	svelteIndentScriptAndStyle: true,
 	svelteStrictMode: true,
-
-	// general prettier options
-	arrowParens: "always",
-	bracketSpacing: true,
-	htmlWhitespaceSensitivity: "strict",
-	printWidth: 80,
-	quoteProps: "consistent",
-	semi: true,
-	singleQuote: false,
-	singleAttributePerLine: true,
-	tabWidth: 2,
-	trailingComma: "all",
-	useTabs: true,
-	pluginSearchDirs: false,
 };
