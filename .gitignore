@@ -32,6 +32,7 @@ pnpm-lock.yaml
 .svelte-kit
 # generated/
 # output/
+.output
 # /.svelte-kit/types
 
 # Editor files
@@ -40,3 +41,7 @@ pnpm-lock.yaml
 
 # hosting providers
 .vercel
+
+# vite
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*
