@@ -57,7 +57,7 @@ This starter was developed for the [Lightning Jar](https://lightningjar.com) tea
 * #### ESLint Parsers & Plugins
 * [eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) - _compatibility w/ prettier_
 * [typescript-eslint/parser](https://github.com/typescript-eslint/typescript-eslint/tree/main/packages/parser) - _TS parsing_
-* [typescript-eslint/eslint-plugin](https://github.com/typescript-eslint/typescript-eslint/tree/main/packages/)- _TS
+* [typescript-eslint/eslint-plugin](https://github.com/typescript-eslint/typescript-eslint/tree/main/packages/) - _TS_
 
 ### G. Testing
 * **[Playwright](https://playwright.dev/)** - _cross-browser testing_
