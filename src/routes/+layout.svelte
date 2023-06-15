@@ -1,4 +1,5 @@
 <script lang="ts">
+	// tailwind css
 	import "../app.css";
 </script>
 
