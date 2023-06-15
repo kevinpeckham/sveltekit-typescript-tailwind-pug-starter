@@ -10,10 +10,13 @@ const config = {
 		adapter: adapter(),
 		alias: {
 			$atoms: "./src/lib/components/atoms",
+			$assets: "./src/lib/assets",
 			$components: "./src/lib/components",
+			$data: "./src/lib/data",
 			$molecules: "./src/lib/components/molecules",
 			$organisms: "./src/lib/components/organisms",
 			$stores: "./src/lib/stores",
+			$tools: "./src/lib/tools",
 			$types: "./src/lib/types",
 			$utils: "./src/lib/utils",
 		},
